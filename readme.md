@@ -17,4 +17,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alok-2002&show_icons=true&locale=en&layout=compact" alt="alok-2002" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok-2002&" alt="alok-2002" /></p>
+<img src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/456/275/datas/original.gif" width="400" height="300" align="right">
+
 <img src="https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif" width="500" height="400">
