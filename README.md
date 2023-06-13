@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alok Sharma</h1>
+<h1 font-size=20 align="center">Hi 👋, I'm Alok Sharma</h1>
 <h3 align="center">A passionate to Python developer</h3>
 
 # 💫 About Me:
