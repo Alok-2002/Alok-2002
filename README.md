@@ -19,7 +19,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Alok-2002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=atul_sharma_20)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🎮 Exciting news! Trigger_Mania v1.0 is now available for Windows! 🚀 Immerse yourself in action, strategy, and shooting. Defeat NPCs, test your skills, and download now! <a href="https://twitter.com/hashtag/TriggerMania?src=hash&amp;ref_src=twsrc%5Etfw">#TriggerMania</a> <a href="https://twitter.com/hashtag/Gaming?src=hash&amp;ref_src=twsrc%5Etfw">#Gaming</a><br><br>Download Link : [Download Now](<a href="https://t.co/Cc1rx5yKka">https://t.co/Cc1rx5yKka</a>) <a href="https://t.co/uuy7nYaRIj">pic.twitter.com/uuy7nYaRIj</a></p>&mdash; ALOK SHARMA (@atul_sharma_20) <a href="https://twitter.com/atul_sharma_20/status/1669541670680133632?ref_src=twsrc%5Etfw">June 16, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
