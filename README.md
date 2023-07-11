@@ -30,4 +30,4 @@
 
 
 ## 🐍 The "Contribution Devourer" Workflow: Sustaining the Pythonic Growth
-![snake gif](https://github.com/Alok-2002/Alok-2002/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/Alok-2002/Alok-2002/blob/output/github-contribution-grid-snake.svg)
