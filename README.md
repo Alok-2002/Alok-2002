@@ -20,20 +20,13 @@
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Alok-2002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![Latest Tweet](https://gtce.itsvg.in/api?username=atul_sharma_20)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
+![Visitor Count](https://visitcount.itsvg.in/api?id=Alok-2002&icon=0&color=0)
 
 ### 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Alok-2002&limit=5&theme=nord&combine_all_yearly_contributions=true)
-
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=Alok-2002&icon=0&color=0)
 
 
 ![snake gif](https://github.com/alok-2002/alok-2002/blob/output/github-contribution-grid-snake.gif)
