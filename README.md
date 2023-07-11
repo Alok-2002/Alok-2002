@@ -29,4 +29,4 @@
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Alok-2002&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 
-![snake gif](https://github.com/alok-2002/alok-2002/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Alok-2002/Alok-2002/blob/output/github-contribution-grid-snake.gif)
