@@ -26,6 +26,9 @@
 ### ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+
+![Snake animation](https://github.com/alok-2002/alok-2002/blob/output/github-contribution-grid-snake.svg)
+
 ### 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Alok-2002&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
