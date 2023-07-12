@@ -31,6 +31,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alok-2002&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok-2002&" alt="alok-2002" /></p>
+
+
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Alok-2002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -39,6 +43,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=alok-2002&label=PROFILE+VIEWS)
+
 
 
 
