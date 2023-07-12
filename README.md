@@ -26,13 +26,12 @@
 ![git](https://github.com/Alok-2002/Alok-2002/assets/93814546/a0b2aedc-6c86-4ca0-b03c-2ba2590f8f4f)
 
 ## 📊 GitHub Stats:
-![Alok Sharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alok-2002&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alok-2002&theme=blueberry&hide_border=false)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok-2002&2&theme=blueberry&hide_border=false" alt="alok-2002" /></p>
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alok-2002&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok-2002&" alt="alok-2002" /></p>
 
 
 ## 🏆 GitHub Trophies
