@@ -24,9 +24,8 @@
 
 ## 📊 GitHub Stats:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok-2002&theme=blueberry&hide_border=false" alt="alok-2002" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok-2002&theme=blueberry" alt="alok-2002" /></p>
 
-[![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=alok-2002)](https://github.com/alok-2002/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alok-2002&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
