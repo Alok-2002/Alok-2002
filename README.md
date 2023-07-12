@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alok Sharma</h1>
 <h3 align="center">A passionate Python developer</h3>
+![download](https://github.com/Alok-2002/Alok-2002/assets/93814546/3ae3dd34-7351-4eb2-9771-4be2095648dd)
+
+
+
 
 # 💫 About Me:
 🔭 I’m currently working on Python.<br><br>🌱 I’m currently learning HTML5, CSS, JAVASCRIPTS.<br><br>📫 How to reach me sharmaalok02gwl@gmail.com.<br><br>⚡ Fun fact I think I Don't Fear Anything.<br><br>
