@@ -36,21 +36,32 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Alok-2002&show_icons=true)
 
 
-
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Alok-2002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
+## Profile Viewa
 
 ![](https://komarev.com/ghpvc/?username=alok-2002&label=PROFILE+VIEWS)
-
 
 
 
 ### 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Alok-2002&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
+
+
+## Top Contributors
+
+![GitHub Contributors Image](https://contrib.rocks/image?repo=Alok-2002/python_projects)
+
+
+
+### ✍️ Random Dev Quote
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
