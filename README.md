@@ -49,7 +49,9 @@
 
 
 ### 🔝 Top Contributed Repo
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Alok-2002&limit=5&theme=nord&combine_all_yearly_contributions=true)
+
+![](https://github-contributor-stats.vercel.app/api?username=Alok-2002&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 
 
 
@@ -65,3 +67,6 @@
 
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
+
