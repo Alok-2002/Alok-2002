@@ -30,11 +30,20 @@
 
 
 
+
+## Alok Sharma's GitHub Stats
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Alok-2002&show_icons=true)
+
+
+
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Alok-2002&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 
 
 ![](https://komarev.com/ghpvc/?username=alok-2002&label=PROFILE+VIEWS)
