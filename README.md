@@ -42,7 +42,7 @@
 
 
 
-## Profile Viewa
+## Profile Views
 
 ![](https://komarev.com/ghpvc/?username=alok-2002&label=PROFILE+VIEWS)
 
