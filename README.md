@@ -62,7 +62,7 @@
 
 
 
-### Badges 
+## Badges 
 [![An image of @alok2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/alok2002)](https://holopin.io/@alok2002)
 
 
