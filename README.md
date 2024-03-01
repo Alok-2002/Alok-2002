@@ -73,5 +73,6 @@
 ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
+## Oop's There Is A Snake 🐍
+<img src="https://raw.githubusercontent.com/alok-2002/alok-2002/output/snake.svg" alt="Snake animation" />
 
