@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 # 💫 About Me:
 🔭 I’m currently working on Python, Machine Learning, Data Science.<br><br>🌱 I’m currently learning HTML5, CSS, JAVASCRIPTS.<br><br>📫 How to reach me sharmaalok02gwl@gmail.com.<br><br>⚡ Fun fact I think I Don't Fear Anything.<br><br>
 
