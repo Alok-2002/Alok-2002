@@ -1,6 +1,4 @@
 
-![Blue Abstract YouTube](https://github.com/Alok-2002/Alok-2002/assets/93814546/9b6339c8-9155-4e43-ab00-0af89aeccd7b)
-
 
 
 
